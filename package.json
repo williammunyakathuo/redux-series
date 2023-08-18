@@ -1,0 +1,14 @@
+{
+  "name": "redux-series",
+  "version": "1.0.0",
+  "description": "learning redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william thuo",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
